@@ -1,0 +1,22 @@
+{
+  "name": "blode",
+  "version": "0.1.2",
+  "description": "A simple static site/blog generator like jekyll.",
+  "author": {
+    "name": "Islon Scherer",
+    "email": "islonscherer@gmail.com"
+  },
+  "dependencies": {
+    "node-markdown": ">= 0.1.0",
+    "commander": ">= 0.5.2",
+    "dot": ">= 0.1.7",
+    "rss": ">= 0.0.3"
+  },
+  "engines": {"node": ">= 0.6.0"},
+  "keywords": ["blog", "jekyll", "static", "web", "site", "markdown"],
+  "bin": {"blode": "blode.js"},
+  "homepage": "https://github.com/stackoverflow/blode",
+  "bugs": {
+    "url": "https://github.com/stackoverflow/blode/issues"
+  }
+}
