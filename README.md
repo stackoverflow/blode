@@ -49,7 +49,7 @@ You can use the following variables inside a layout:
 
 - blode.body: this is the main content of the layout
 - blode.posts: an array of all you site's posts. Each one is an object in the form {"path": "/full/path", "link": "post-name.html", "name": "post-name"}
-<br/>
+
 E.g:
 
     <body>
