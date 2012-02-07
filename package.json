@@ -1,6 +1,6 @@
 {
   "name": "blode",
-  "version": "0.1.2",
+  "version": "0.1.4",
   "description": "A simple static site/blog generator like jekyll.",
   "author": {
     "name": "Islon Scherer",
